@@ -1,0 +1,5 @@
+{
+  "name": "KSM Enterpries",
+  "description": "A comprehensive stock management system for businesses to track inventory, manage buyers/sellers, process inward/outward stock with a shopping cart interface, and analyze performance using Gemini AI.",
+  "requestFramePermissions": []
+}
